@@ -1,0 +1,4 @@
+# INTEGRITY
+
+This folder contains structural checks, manifests, and integrity constraints.
+It defines how system consistency is verified, not system behavior itself.
