@@ -1,3 +1,56 @@
+
+
+# AQ-OS MANIFEST
+## Authoritative Structural Index
+
+**Version:** v1.1  
+**Status:** Authoritative Index  
+**Scope:** AQ-OS Core Repository  
+**Purpose:** Prevent drift, scope creep, and accidental reinterpretation of locked work.
+
+This MANIFEST is the **primary source of truth** for the epistemic status, authority boundaries, and load-bearing structure of all artifacts in this repository.
+
+If a file, folder, or claim is not consistent with this MANIFEST, it is **non-authoritative** by default.
+
+---
+
+## Purpose
+
+AQ-OS (AquaHarmonia Operating System) is a human-centered systems framework designed to:
+
+- preserve human agency
+- prevent authority drift in AI-assisted systems
+- maintain clarity through explicit structure
+- separate mythic or poetic expression from operational truth
+
+This repository contains the **Core Spine only**.
+
+---
+
+## Repository Structure & Authority Levels
+
+Folder names encode authority boundaries.  
+Authority is determined by **explicit listing here**, not by implication.
+
+### 🔒 `/LOCKED/` — Load-Bearing (Immutable by Default)
+
+Foundational constraints that other systems must conform to.
+
+Changes here alter system behavior and require:
+- an explicit version bump
+- written justification
+- and a changelog entry
+
+Contents include:
+- Violation Policy Spine
+- Lane 1 Operator Composition
+- Lane 2 Viability Kernels & Geometry
+- Q-Sleeve Core Components
+
+> Note: Some LOCKED artifacts may be referenced from other folders.  
+> Logical authority, not physical location, determines
+
+---
 # AQ-OS MANIFEST
 ## Authoritative Structural Index
 
