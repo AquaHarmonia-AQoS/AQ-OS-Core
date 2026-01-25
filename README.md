@@ -128,3 +128,38 @@ As with any software, it is subject to error and should be evaluated before use 
 
 This system is intentionally cold and constrained,
 so that human judgment, warmth, and responsibility remain primary.
+
+
+1/28/2026: update
+
+# AQ-OS Core
+
+AQ-OS Core contains the open, scientific, and governance-defining components of the AquaHarmonia Operating System.
+
+This repository defines kernels, operators, safety constraints, integrity rules, and system structure. All contents are provided under the MIT License to enable inspection, reuse, testing, and extension of the underlying mechanisms.
+
+## Scope
+
+This repository is authoritative for:
+- System governance and constraints
+- Operator and lane definitions
+- Integrity and safety mechanisms
+- Memory and containment specifications
+
+This repository does **not** contain narrative framing, creative expression, cultural interpretation, or human-facing presentation language.
+
+## License Boundary
+
+Narrative, expressive, and attribution-governed materials associated with AQ-OS live outside this repository and are intentionally excluded. Reuse of AQ-OS Core does not grant rights to creative framing or cultural materials maintained elsewhere.
+
+## Structure
+
+- `LOCKED/` — Canonical, immutable system definitions
+- `governance/` — Governance rules and authority boundaries
+- `lanes/` — Operator lanes and kernel definitions
+- `memory/` — Memory, retrieval, and containment specifications
+- `integrity/` — Structural checks and consistency constraints
+- `ARCHIVE/` — Historical or deprecated materials
+- `DAILY/` — Non-authoritative working notes
+
+Refer to `MANIFEST.md` for the authoritative index of load-bearing documents.
