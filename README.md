@@ -98,6 +98,10 @@ David J. Friedman
 For questions, comments, or concerns (no spam, please):
 aqos.echo@gmail.com
 
+
+License Boundary Notice:
+This repository contains the open, scientific, and governance-defining components of AQ-OS, including kernels, operators, safety constraints, and formal system structure. All contents are provided under the MIT License to enable inspection, reuse, testing, and extension of the underlying mechanisms. This repository does not claim ownership over narrative framing, creative expression, cultural interpretation, or presentation language associated with AQ-OS. Such materials are intentionally excluded and are governed separately.
+
 Disclaimer
 
 This work includes mythic and poetic framing used as a lens for exploration, not as a statement of literal belief, authority, or ontology.
